@@ -1,3 +1,6 @@
+
+import sarahs.Lapin;
+
 /**
  *
  * @author sarah santal
@@ -12,6 +15,5 @@ public class SarahS {
             lap.crier();
             i++;
         }
-        System.out.println("confliiiiiiit");
     }
 }
